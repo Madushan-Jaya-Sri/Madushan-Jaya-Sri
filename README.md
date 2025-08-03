@@ -20,7 +20,7 @@
 ---
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Madushan-Jaya-Sri&theme=tokyo-night)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Madushan-Jaya-Sri&theme=tokyonight&column=7)
+
 ## 🛠️ Tech Stack & Expertise
 
 ### 🤖 AI & Machine Learning
@@ -109,7 +109,7 @@
 </div>
 
 ---
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Madushan-Jaya-Sri&theme=tokyonight&column=9)
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Madushan-Jaya-Sri&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
