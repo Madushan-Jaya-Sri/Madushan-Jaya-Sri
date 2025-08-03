@@ -1,5 +1,5 @@
 # Hi there, I'm Madushan Jaya Sri 👋
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Madushan-Jaya-Sri&theme=tokyo-night)
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+LLM+Specialist;AI+%26+Data+Science+Expert;Building+the+Future+with+AI" alt="Typing Animation" />
 </div>
